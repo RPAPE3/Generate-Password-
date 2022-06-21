@@ -5,4 +5,4 @@ Project Description: This application will auto generate a random password based
  Link: https://rpape3.github.io/Generate-Password-/
 
 Screenshots: 
-![Screenshot](./Images/Password%20Generator%20Screenshot.png)
+![Screenshot](./assets/Images/Password%20Generator%20Screenshot.png)

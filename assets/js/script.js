@@ -18,7 +18,7 @@ function promptPassword() {
       promptPassword();
     }
   }
-  var passwordCharacters = arrayPassword(input1, input2, input3, input4, input5);
+  var passwordCharacters = arrayPassword(input2, input3, input4, input5);
 
   var generateBtn = document.querySelector("#generate");
 
@@ -32,7 +32,7 @@ function promptPassword() {
 };
 
 function arrayPassword(lowercase, uppercase, number, special) {
-  var passwordString = " ";
+  var passwordString = "";
   if (lowercase) {
     passwordString += passwordOptions[0];
   }
